@@ -20,6 +20,8 @@ ls -la
 The above commands will show you the name of the hidden file with the `.` prefix.
 
 ```
+// OUTPUTS
+
 drwxr-xr-x 2 root    root    4096 Oct  5  2023 .
 drwxr-xr-x 3 root    root    4096 Oct  5  2023 ..
 -rw-r----- 1 bandit4 bandit3   33 Oct  5  2023 .hidden
