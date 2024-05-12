@@ -13,5 +13,5 @@ sshpass -f level7.pwd ssh bandit7@bandit.labs.overthewire.org -p 2220
 One liner:
 
 ```
-cat data.txt | grep millionth | sed -E 's/\s+/\ /g' | cut -d " " -f2
+cat data.txt | grep millionth | sed -E "s/\s+/\ /g" | cut -d " " -f2
 ```
