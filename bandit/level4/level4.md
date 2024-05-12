@@ -20,9 +20,11 @@ The way you can identify a human readable file is by using the `file` command.
 file ./*
 ```
 
-Among the results the one that says `ASCII text` is the one we are looking for.
+Among the results the one that says `ASCII text` is the one we are looking for
 
 ```
+// OUTPUTS
+
 ./-file00: data
 ./-file01: data
 ./-file02: data
@@ -39,7 +41,7 @@ Among the results the one that says `ASCII text` is the one we are looking for.
 cat ./-file07
 ```
 
-Or if you want to with a one liner.
+Or if you want to do it using a one liner.
 
 ```
 cat < $(file ./* | grep ASCII | cut -d ':' -f1)
