@@ -14,13 +14,11 @@ The tricky part about this challenge is that `-` is the standard option characte
 
 So if we were to use `cat -` it would read from stdin.
 
-The solution is either to use the full path to the file
+The solution is either to use the full path to the file or to redirect the input from the file to cat.
 
 ```
 cat ./-
 ```
-
-or to redirect the input from the file to cat
 
 ```
 cat < -
