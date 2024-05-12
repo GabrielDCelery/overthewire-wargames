@@ -9,3 +9,4 @@
 | 4     | The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.                             | [Link](./level4/README.md) |
 | 5     | The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties: `human-readable`, `1033 bytes in size`, `not executable`. | [Link](./level5/README.md) |
 | 6     | The password for the next level is stored somewhere on the server and has all of the following properties:: `owned by user bandit7`, `owned by group bandit6`, `33 bytes in size`.          | [Link](./level6/README.md) |
+| 7     | The password for the next level is stored in the file data.txt next to the word millionth.                                                                                                  | [Link](./level7/README.md) |
