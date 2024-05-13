@@ -8,7 +8,7 @@ The password for the next level is stored in the only human-readable file in the
 sshpass -f level4.pwd ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
-### Solution
+### Solution in detail
 
 ```
 cd inhere

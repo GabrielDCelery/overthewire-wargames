@@ -8,7 +8,7 @@ The password for the next level is stored in a hidden file in the inhere directo
 sshpass -f level3.pwd ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
 
-### Solution
+### Solution in detail
 
 First we need to enter the directory that stores the hidden file and list the hidden files to get the file name.
 

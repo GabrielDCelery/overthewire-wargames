@@ -8,7 +8,7 @@ The password for the next level is stored in a file called - located in the home
 sshpass -f level1.pwd ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
 
-### Solution
+### Solution in detail
 
 The tricky part about this challenge is that `-` is the standard option character. Most of the commands on Linux treat the string `-` as a synonym for stdin or stdout.
 

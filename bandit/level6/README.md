@@ -12,7 +12,7 @@ The password for the next level is stored somewhere on the server and has all of
 sshpass -f level6.pwd ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
-### Solution
+### Solution in detail
 
 ```
 cd inhere

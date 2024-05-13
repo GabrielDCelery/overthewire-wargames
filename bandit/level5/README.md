@@ -12,7 +12,7 @@ The password for the next level is stored in a file somewhere under the inhere d
 sshpass -f level5.pwd ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
 
-### Solution
+### Solution in detail
 
 ```
 cd inhere
