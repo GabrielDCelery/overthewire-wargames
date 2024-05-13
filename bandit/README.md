@@ -10,3 +10,4 @@
 | 5     | The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties: `human-readable`, `1033 bytes in size`, `not executable`. | [Link](./level5/README.md) |
 | 6     | The password for the next level is stored somewhere on the server and has all of the following properties:: `owned by user bandit7`, `owned by group bandit6`, `33 bytes in size`.          | [Link](./level6/README.md) |
 | 7     | The password for the next level is stored in the file data.txt next to the word millionth.                                                                                                  | [Link](./level7/README.md) |
+| 8     | The password for the next level is stored in the file data.txt and is the only line of text that occurs only once millionth.                                                                | [Link](./level8/README.md) |
